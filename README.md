@@ -1,1 +1,2 @@
 # progit2test
+.gitignore
